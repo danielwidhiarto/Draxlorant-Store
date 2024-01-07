@@ -4,11 +4,11 @@ Welcome to DraxLorant-Bot, a Discord bot that specializes in checking your daily
 
 ## Features
 
-- Shop Rolls Checker: DraxLorant-Bot allows you to check your daily shop rolls in Valorant directly on your Discord server. Stay up to date on the latest items available without logging into the game.
+- **Shop Rolls Checker**: DraxLorant-Bot allows you to check your daily shop rolls in Valorant directly on your Discord server. Stay up to date on the latest items available without logging into the game.
 
-- Safe and Official**: The DraxLorant-Bot interacts with the official Valorant API, ensuring a secure and authorized approach without asking users for sensitive information.
+- **Safe and Official**: The DraxLorant-Bot interacts with the official Valorant API, ensuring a secure and authorized approach without asking users for sensitive information.
 
-- Discord Integration: Receive shop roll updates seamlessly on your Discord server, enhancing your gaming experience.
+- **Discord Integration**: Receive shop roll updates seamlessly on your Discord server, enhancing your gaming experience.
 
 ## Getting Started
 
@@ -16,9 +16,9 @@ To get started with DraxLorant-Bot on your Discord server, follow these simple s
 
 1. **Clone the repository**: Clone this repository to your local machine using `git clone https://github.com/danielwidhiarto/Draxlorant-Store.git`.
 
-2. **Install dependencies: Navigate to the project directory and install the required dependencies by running `pip install -r requirements.txt`.
+2. **Install dependencies**: Navigate to the project directory and install the required dependencies by running `pip install -r requirements.txt`.
 
-3. **Configure Bot Token: Get a bot token from the [Discord Developer Portal](https://discord.com/developers/applications) and configure it in the `config.json` file.
+3. **Configure Bot Token**: Get a bot token from the [Discord Developer Portal](https://discord.com/developers/applications) and configure it in the `config.json` file.
 
 4. **Valuable API Key**: Get an API key from the [Riot Games Developer Portal](https://developer.riotgames.com/) and configure it in the `config.json` file.
 
