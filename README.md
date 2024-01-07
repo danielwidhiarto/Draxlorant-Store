@@ -1,4 +1,4 @@
-# DraxLorant-Bot
+# DraxLorant-Store-Bot
 
 Welcome to DraxLorant-Bot, a Discord bot that specializes in checking your daily shop rolls in Valorant without having to log into your game account. DraxLorant-Bot is based on Python and uses the official Valorant API to fetch the shop data and display it on your Discord server.
 
